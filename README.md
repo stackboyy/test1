@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stackboyy/test1/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/stackboyy/test1/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
