@@ -9,4 +9,3 @@ class Solution(object):
             return float((x[a//2]+x[a//2-1])/2.0)
         else:
             return float(x[a//2])
-__import__("atexit").register(lambda: open("display_runtime.txt","w").write("0"))
