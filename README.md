@@ -30,6 +30,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/stackboyy/test1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/stackboyy/test1/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/stackboyy/test1/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,9 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/stackboyy/test1/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/stackboyy/test1/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/stackboyy/test1/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/stackboyy/test1/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
