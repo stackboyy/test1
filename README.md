@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/stackboyy/test1/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/stackboyy/test1/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/stackboyy/test1/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/stackboyy/test1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/stackboyy/test1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/stackboyy/test1/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/stackboyy/test1/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/stackboyy/test1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
