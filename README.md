@@ -57,6 +57,7 @@
 | [0007-reverse-integer](https://github.com/stackboyy/test1/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/stackboyy/test1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/stackboyy/test1/tree/master/0069-sqrtx) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/stackboyy/test1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Newton's Method
 |  |
 | ------- |
