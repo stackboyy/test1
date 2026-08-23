@@ -57,6 +57,7 @@
 | [0007-reverse-integer](https://github.com/stackboyy/test1/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/stackboyy/test1/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/stackboyy/test1/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/stackboyy/test1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/stackboyy/test1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Newton's Method
 |  |
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/stackboyy/test1/tree/master/0164-maximum-gap) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/stackboyy/test1/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
