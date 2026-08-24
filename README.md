@@ -29,6 +29,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/stackboyy/test1/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/stackboyy/test1/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/stackboyy/test1/tree/master/0125-valid-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/stackboyy/test1/tree/master/1189-maximum-number-of-balloons) |
 ## String Matching
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stackboyy/test1/tree/master/0001-two-sum) |
+| [1189-maximum-number-of-balloons](https://github.com/stackboyy/test1/tree/master/1189-maximum-number-of-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/stackboyy/test1/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/stackboyy/test1/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
