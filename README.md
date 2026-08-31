@@ -16,6 +16,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/stackboyy/test1/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/stackboyy/test1/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/stackboyy/test1/tree/master/0164-maximum-gap) |
+| [0260-single-number-iii](https://github.com/stackboyy/test1/tree/master/0260-single-number-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0136-single-number](https://github.com/stackboyy/test1/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/stackboyy/test1/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/stackboyy/test1/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/stackboyy/test1/tree/master/0260-single-number-iii) |
 ## Sorting
 |  |
 | ------- |
