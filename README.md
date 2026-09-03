@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/stackboyy/test1/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/stackboyy/test1/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/stackboyy/test1/tree/master/0260-single-number-iii) |
+| [0867-transpose-matrix](https://github.com/stackboyy/test1/tree/master/0867-transpose-matrix) |
 | [3875-construct-uniform-parity-array-i](https://github.com/stackboyy/test1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
@@ -104,8 +105,13 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/stackboyy/test1/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/stackboyy/test1/tree/master/0867-transpose-matrix) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/stackboyy/test1/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/stackboyy/test1/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
