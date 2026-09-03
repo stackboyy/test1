@@ -17,6 +17,7 @@
 | [0162-find-peak-element](https://github.com/stackboyy/test1/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/stackboyy/test1/tree/master/0164-maximum-gap) |
 | [0260-single-number-iii](https://github.com/stackboyy/test1/tree/master/0260-single-number-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/stackboyy/test1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0258-add-digits](https://github.com/stackboyy/test1/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/stackboyy/test1/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/stackboyy/test1/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/stackboyy/test1/tree/master/3875-construct-uniform-parity-array-i) |
 ## Newton's Method
 |  |
 | ------- |
